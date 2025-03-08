@@ -1,5 +1,8 @@
 ## Hi there 👋 i'm sirisanhitha
-
+<h3 align="left">Education:</h3>
+SRM INSTITUTE OF SCIENCE AND TECHNOLOGY - B.Tech in CSE with Specialization in AI and ML 2023-2027
+<h3 align="left">Contact me</h3>
+[Gmail](sirisanhitha1937@gmail.com)
 <!--
 **sirisanhitha/sirisanhitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

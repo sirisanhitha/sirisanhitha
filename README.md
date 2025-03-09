@@ -1,18 +1,16 @@
 ## Hi there 👋 i'm sirisanhitha
-<h3 align="left">Education:</h3>
-SRM INSTITUTE OF SCIENCE AND TECHNOLOGY - B.Tech in CSE with Specialization in AI and ML 2023-2027
 
-# Skills 
-- HTML
-- CSS
-- JavaScript
-- C
-- C++
-- Java
-- MongoDB
-- MySQL
-<h3 align="left">Contact me</h3>
-Gmail:sirisanhitha1937@gmail.com
+<h3 align="left">Skills:</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mongodb,mysql," />
+<h3 align="left">Education:</h3>
+<img src="https://scet.berkeley.edu/wp-content/uploads/8.-SRM-Logo-300x300.png" width="20"/>SRM INSTITUTE OF SCIENCE AND TECHNOLOGY -B.Tech in CSE with Specialization in AI and ML 2023-2027 
+<h3 align="left">Let's Connect</h3>
+
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirisanhitha1937@gmail.com)
+
+  [![sirisanhitha's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=sirisanhitha&layout=compact&theme=dark&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sirisanhitha&theme=dark&cache_seconds=1)](https://git.io/streak-stats)
+[![sirisanhitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirisanhitha&count_private=true&show_icons=true&theme=dark&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sirisanhitha/sirisanhitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
